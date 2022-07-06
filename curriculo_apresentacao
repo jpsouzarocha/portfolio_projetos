@@ -1,0 +1,44 @@
+1.Boas vindas!
+ Olá, seja bem vindo ao meu portfólio de projetos em Ciência de Dados e Machine Learning.
+ A seguir, apresento os meus trabalhos e experiências em solucionar problemas de negócios com o uso de dados, conceitos e ferramentas relacionados.
+ Os projetos foram realizados utilizando dados públicos disponíveis on-line.
+
+2.Sobre Mim
+Sou João Pedro S. Rocha, graduado em Ciências Contábeis pela Universidade Federal do Piauí(UFPI) e, atualmente, estou em transição de carreira para a área de dados.
+Participo da Comunidade DS, onde desenvolvemos uma série de projetos em CD, desde projetos mais simples como Projetos de Insights, a projetos mais complexos que envolvem a aplicação de avançados algoritmos de ML. Meu trabalho consiste no ciclo de dados, iniciando na compreensão do problema de negócio, análise exploratória de dados, modelagem dos dados, até a aplicação do modelo e aplicá-lo em produção, para enfim apresentar ao público-alvo(ou públicos) o storytelling com os resultados obtidos de forma clara e inteligível.
+Busco oportunidades como Cientista de Dados ou cargos afins, como Analista de Dados, Eng. de Machine Learning, etc...
+
+3.Habilidades
+  * Linguagens de programação e Banco de Dados (Coleta, manipulação e extração de conhecimento dos dados)
+    - Python com foco em análise dados
+    - Web scraping com Python
+    - Banco de Dados SQLite, Postgres e MySQL
+    - SQL para extração de dados
+    - Pacotes de manipulação e análise de dados: Pandas e Numpy
+  * Estatística e Machine Learning (Métodos e Algoritmos)
+    - Estatística Descritiva(localização, dispersão, assimetria, kurtosis, densidade)
+    - Algoritmos de regressão, classificação, clusterização e "learn to rank"
+    - Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade
+    - Métricas de performance dos algoritmos(RMSE, MAE, MAPE, Matriz de confusão, Precisão, Recall, Curva ROC, Curva Lift, AUC)
+    - Pacotes de Machine Learning: Scikit-Learn e Scipy
+    -
+  * Visualização de dados (Pacotes e ferramentas de dataviz)
+    - Matplotlib, Seaborn, Plotly e Bokeh
+    - Power BI, Tableau, Metabase e Looker
+  * Engenharia de Software
+    - Git, Github, Gitlab, Cookiecutter e Docker
+    - Streamlit, Flask, Python APIs
+    - Cloud Heroku, AWS Amazon e Google Cloud Platform(GCP) e Microsoft Azure
+
+4. Experiências
+  * Projetos completos de Ciência de Dados
+    - Criação de soluções de dados para problemas de negócios semelhantes aos enfrentados pelas empresas diariamente, utilizando dados públicos de competições de CD, em que eu abordei o problema desde a concepção do desafio de negócio até a publicação do algoritmo treinado em produção, por meio de ferramentas de Cloud Computing.
+
+5. Projetos em Ciências de Dados
+  * Previsão de Vendas e criação de um bot no Telegram
+    - Utilizei Python e técnicas de Machine Learning para antecipar quanto será vendido nas próximas 6 semanas em cada unidade da rede de farmácias Rossmann, em seguida, criei um bot no app de mensagens Telegram que foi hospedado no serviço de cloud Heroku, sendo facilmente acessado com uma simples mensagem no aplicativo.
+
+6. Contato
+  Sinta-se à vontade para entrar em contato:
+   E-mail:
+   Linkedin:
